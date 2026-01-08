@@ -32,7 +32,7 @@ If you don’t trust our script — we don’t care. This project is strictly fo
 > - This system exists to **protect our work** and ensure the anticheat functions as intended.  
 > - Your responsibility as a developer is to protect your own assets — Federation Anticheat is not a shield for stolen content.  
 > - The anticheat serves one purpose: **maintaining a fair and secure game environment** for authorized games.  
-> - Any attempt to steal, copy, or redistribute Federation Anticheat without authorization will result in permanent denial of service and may be reported to Roblox moderation.
+> - Any attempt to steal, copy, or redistribute Federation Anticheat without authorization will result in permanent denial of service.
 
 ---
 
