@@ -76,8 +76,10 @@ If you are a developer and want your game ID added to the authorization list:
 
 ## 📜 License
 This project is released under a **custom restrictive license**.  
-- Editing, forking, or source code access is **not permitted**.  
-- Redistribution of any kind is forbidden.  
-- We reserve full control of authorization and may enable or disable the script for any developer at any time, regardless of status.  
-- Violations of these terms will result in permanent denial of service.
-- LICENSED UNDER CC-BY-4.0
+- Redistribution, modification, or reverse engineering is **not permitted**.  
+- Forking or copying this repository is forbidden.  
+- Authorization to use Federation Anticheat is controlled exclusively by the maintainers.  
+- Any violation will result in permanent denial of service.  
+
+⚠️ This project is **not open source**.  
+
