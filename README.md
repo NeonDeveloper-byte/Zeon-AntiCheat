@@ -48,3 +48,7 @@ Run this line of code in Roblox Studio or your game console to retrieve it:
 **RUN IN A COMMAND BAR**
 ```lua
 print(game.PlaceId)
+```
+### OR
+use game link
+https://www.roblox.com/games/XXXXXXXXX
