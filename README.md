@@ -8,7 +8,7 @@ Only approved games are authorized to run the script.
 ---
 
 ## 📌 Purpose
-The Zeon Authorization List ensures that Federation Anticheat is used only in approved Roblox experiences.  
+The Zeon Authorization List ensures that Zeon Anticheat is used only in approved Roblox experiences.  
 This keeps the system secure and reliable for everyone.
 
 ---
@@ -25,7 +25,7 @@ This keeps the system secure and reliable for everyone.
 > - Zeon Anticheat is designed to safeguard fair play and protect developer work.  
 > - Copying, tampering, or redistributing the scripts is strictly forbidden.  
 > - Unauthorized use may result in permanent denial of service.  
-> - Federation Anticheat supports your projects, but it is not intended to protect stolen content.  
+> - Zeon Anticheat supports your projects, but it is not intended to protect stolen content.  
 
 ---
 
